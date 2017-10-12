@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2750.cpp" />
+    <ClCompile Include="7576 토마토.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{1D31C3C5-1F4D-465D-993C-27CC6B38E360}</ProjectGuid>
